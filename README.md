@@ -1,32 +1,26 @@
-## Kathy Zhou Fan Page
+# Kathy Zhou Fan Page
 
-You can use the [editor on GitHub](https://github.com/kathyzhouqueenly/kathyzhouqueenly.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ![Image of Kathy](https://miro.medium.com/fit/c/160/160/2*WD2ncuFvTJDIpkNaGnCaNA.jpeg)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**Fun facts about Kathy Zhou**
 
-- Bulleted
-- List
+- Aspirational Pasta Chef
+- Used to have pink hair!
+- Vegan Cheese Connoisseur
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![Image of Forbes](https://www.pngkit.com/png/detail/42-423636_forbes-under-30-asia-forbes-30-under-30.png)
+
+![Image of Nobel Peace Prize](https://www.underconsideration.com/brandnew/archives/the_nobel_prize_logo_before_after_a.png)
+
+![Image of Entrepreneur of the year](https://media.bizj.us/view/img/10465872/ey-names-entrepreneur-of-the-year*750xx747-420-107-0.jpg)
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
