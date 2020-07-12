@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+![Image of Kathy](https://miro.medium.com/fit/c/160/160/2*WD2ncuFvTJDIpkNaGnCaNA.jpeg)
+
 [Link](url) and ![Image](src)
 ```
 
